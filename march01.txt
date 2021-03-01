@@ -1,0 +1,50 @@
+1. Python interview questions
+2. django tutorials
+
+3. Html 5(practiced)
+====================
+introduction
+structure--head, body
+
+tags
+======
+
+header tags: <h> header </h>
+============
+used to write the headings  for the html page
+there are six header tags in html
+h1,h2.h3,h4,h5,h6
+
+
+paragraph tags 	---	<p> paragraph </p>
+==============
+used to write paragraphs
+
+fonts
+======
+bold:<strong> to write the bold  text</strong>
+italic:em- emphasis ---<em>to write the bold  </em>
+
+Lists creation in html
+========================
+there are two types of lists
+
+ordered lists
+-------------
+to open <ol> list items </ol>
+
+every item in the list wanted to enclosed in <li> items </li>
+
+unorderd lists
+----------------
+to open <ul> list items </ul> 
+
+every item in the list wanted to enclosed in <li> items </li>
+
+image
+========
+insert image in a html page wen use <img> tag
+<img src="image full4 path" alt="it is optional if image is missing then alt msg will display to the end user"
+note: we can give the path from image address
+
+
